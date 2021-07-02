@@ -12,3 +12,7 @@ People not wearing mask
 https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
 
 This is the dataset that was used in the project!
+
+Since the model file comes upto 28MB , I have provided a google drive link for usage:
+
+https://drive.google.com/file/d/1-C-VYaUayc6DGnw9HfR6_IVcVsyOcwH6/view?usp=sharing
