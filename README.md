@@ -8,3 +8,6 @@ It has a dataset can be used for face mask detection. I have divided it into 2 c
 
 People wearing mask
 People not wearing mask
+
+https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
+This is the dataset that was used in the project!
